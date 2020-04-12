@@ -27,7 +27,7 @@ The algorithm starts with an input image and a block size:
 
 We then define a minimum cost path between the overlap of two blocks:
 
-![error](slide.png)
+<img src="slide.png" width=500 />
 
 We then build up a synthesized image by tiling small blocks of the input image.
 
@@ -40,3 +40,7 @@ We then build up a synthesized image by tiling small blocks of the input image.
 (c) We do everything in (c) but also cut along the minimum error boundary.
 
 ## Texture Transfer
+
+>[Here] just add another constraint when sampling: similarity to underlying image at that spot
+
+![half](half.png)
