@@ -9,6 +9,8 @@ It has applications of
 
 2) texture transfer, re-rendering an image in the style of another.
 
+For full details and the original paper, check https://people.eecs.berkeley.edu/~efros/research/quilting.html
+
 ## Algorithm
 
 The algorithm itself is basically:
