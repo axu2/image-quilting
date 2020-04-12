@@ -1,5 +1,7 @@
 # Image Quilting for Texture Synthesis and Transfer
 
+![Demo](abstract_screenshot.PNG)
+
 To quote the original paper's abstract at https://people.eecs.berkeley.edu/~efros/research/quilting.html:
 
 >We present a simple image-based method of generating novel visual appearance 
