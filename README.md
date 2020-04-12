@@ -8,12 +8,12 @@ It has applications of
 
 1) Texture synthesis, generating arbitrarily large textures from small real-world samples and 
 
-2) texture transfer, re-rendering an image in the style of another.
+2) Texture transfer, re-rendering an image in the style of another.
 
 >The method
 works directly on the images and does not require 3D information.
 
-To quote the original paper's abstract at https://people.eecs.berkeley.edu/~efros/research/quilting.html:
+For more information, consult the original paper at https://people.eecs.berkeley.edu/~efros/research/quilting.html:
 
 In this repository, we will be implementing the paper using Python and NumPy.
 
