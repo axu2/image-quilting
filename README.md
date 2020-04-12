@@ -31,4 +31,12 @@ We then define a minimum cost path between the overlap of two blocks:
 
 ![error](slide.png)
 
+We then build up a synthesized image by tiling small blocks of the input image.
 
+![build](build.png)
+
+(a) Here, we just randomly choose blocks
+
+(b) Here we pick blocks that have the least overlap error
+
+(c) We do everything in (c) but also cut along the minimum error boundary.
