@@ -19,6 +19,8 @@ can be re-rendered in the style of a different image.
 >The method
 works directly on the images and does not require 3D information.
 
+In this repository, we will be implementing the paper using Python and NumPy.
+
 ## Algorithm
 
 The algorithm itself is basically:
