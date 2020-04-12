@@ -13,7 +13,9 @@ It has applications of
 >The method
 works directly on the images and does not require 3D information.
 
-For more information, consult the original paper at https://people.eecs.berkeley.edu/~efros/research/quilting.html:
+For more information, consult the original paper at https://people.eecs.berkeley.edu/~efros/research/quilting.html
+
+All images in this readme come from the original paper or presentation at SIGGRAPH '01.
 
 In this repository, we will be implementing the paper using Python and NumPy.
 
@@ -36,3 +38,5 @@ We then build up a synthesized image by tiling small blocks of the input image.
 (b) Here we pick blocks that have the least overlap error
 
 (c) We do everything in (c) but also cut along the minimum error boundary.
+
+## Texture Transfer
