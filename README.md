@@ -39,7 +39,7 @@ We then build up a synthesized image by tiling small blocks of the input image.
 
 (b) Here we pick blocks that have the least overlap error
 
-(c) We do everything in (c) but also cut along the minimum error boundary.
+(c) We do everything in (b) but also cut along the minimum error boundary.
 
 ## Texture Transfer
 
